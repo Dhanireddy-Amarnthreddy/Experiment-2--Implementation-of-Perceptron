@@ -43,8 +43,8 @@ Print the accuracy
 
 
  ### PROGRAM:
- # developed by:D.Amarnath
- # registration no:212221240012
+ #### developed by:D.Amarnath
+ #### registration no:212221240012
  ```
  import numpy as np
 import pandas as pd
