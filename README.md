@@ -24,6 +24,7 @@ Indeed if the neuron output is exactly zero it cannot be assumed that the sample
 
 
 ALGORITHM:
+
 1.Importing the libraries.
 
 2.Importing the dataset
